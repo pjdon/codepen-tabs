@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name		Codepen Tabs
-// @version		0.2019.05.18.6
+// @version		1.20190518.7
 // @description		Replaces Codepen.io resizable code editors with editor tabs
 // @author		rovyko
 // @namespace		https://github.com/rovyko/codepen-tabs
