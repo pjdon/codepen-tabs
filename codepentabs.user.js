@@ -2,6 +2,9 @@
 // @name     Codepen Tabs
 // @version  0.2019.05.18
 // @author	 rovyko
+// @namespace https://github.com/rovyko/codepen-tabs
+// @downloadURL https://github.com/rovyko/codepen-tabs/raw/master/codepentabs.user.js
+// @updateURL https://github.com/rovyko/codepen-tabs/raw/master/codepentabs.user.js
 // @grant    none
 // @include	 https://codepen.io/*
 // ==/UserScript==
