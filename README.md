@@ -1,5 +1,5 @@
 # Codepen Tabs
-Userscript that replaces [Codepen.io](https://codepen.io/pen/)'s the resizable code boxes with tabs.
+Userscript that replaces [Codepen.io](https://codepen.io/pen/)'s resizable code boxes with tabs.
 
 # Installation
 Install from this repository: [`codepentabs.user.js`](https://github.com/rovyko/codepen-tabs/raw/master/codepentabs.user.js)
