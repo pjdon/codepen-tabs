@@ -1,12 +1,13 @@
 // ==UserScript==
-// @name           Codepen Tabs
-// @version        0.2019.05.18.5
-// @author         rovyko
-// @namespace      https://github.com/rovyko/codepen-tabs
-// @downloadURL    https://github.com/rovyko/codepen-tabs/raw/master/codepentabs.user.js
-// @updateURL      https://github.com/rovyko/codepen-tabs/raw/master/codepentabs.user.js
-// @grant          none
-// @include        /https?:\/\/codepen\.io\/(?:[^\/]*\/)?pen/
+// @name		Codepen Tabs
+// @version		0.2019.05.18.6
+// @description		Replaces Codepen.io resizable code editors with editor tabs
+// @author		rovyko
+// @namespace		https://github.com/rovyko/codepen-tabs
+// @downloadURL		https://github.com/rovyko/codepen-tabs/raw/master/codepentabs.user.js
+// @updateURL		https://github.com/rovyko/codepen-tabs/raw/master/codepentabs.user.js
+// @grant		none
+// @include		/https?:\/\/codepen\.io\/(?:[^\/]*\/)?pen/
 // ==/UserScript==
 
 /*
