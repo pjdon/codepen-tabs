@@ -10,3 +10,7 @@ Requires a userscript manager plugin:
 |-------------|:-------------:|
 |Chrome/Safari|[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
 |Firefox|[Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
+
+# Known Issues
+* Currently doesn't work with `top` editor layout
+* Page must load in `left` or `right` editor layout
