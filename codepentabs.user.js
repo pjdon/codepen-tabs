@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name		Codepen Tabs
-// @version		1.20190518.9
+// @version		1.20190518.10
 // @description		Replaces Codepen.io resizable code editors with editor tabs
 // @author		rovyko
 // @namespace		https://github.com/rovyko/codepen-tabs
@@ -11,18 +11,9 @@
 // ==/UserScript==
 
 /*
-  This program is free software: you can redistribute it and/or modify
-  it under the terms of the GNU General Public License as published by
-  the Free Software Foundation, either version 3 of the License, or
-  (at your option) any later version.
-
-  This program is distributed in the hope that it will be useful,
-  but WITHOUT ANY WARRANTY; without even the implied warranty of
-  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-  GNU General Public License for more details.
-
-  You should have received a copy of the GNU General Public License
-  along with this program. If not, see <http://www.gnu.org/licenses/>.
+  Original obtained from https://github.com/rovyko/codepen-tabs/raw/master/codepentabs.user.js
+  Licensed under the GNU General Public License v2.0
+  https://raw.githubusercontent.com/rovyko/codepen-tabs/master/LICENSE
 */
 
 // configuration
