@@ -4,19 +4,9 @@ Userscript that replaces [Codepen.io](https://codepen.io/pen/)'s resizable code 
 # Installation
 Install from this repository: [`codepentabs.user.js`](https://github.com/rovyko/codepen-tabs/raw/master/codepentabs.user.js)
 
-Requires a userscript manager plugin:
-
-|Browser|Manager Plugin|
-|-------------|:-------------:|
-|Chrome/Safari|[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
-|Firefox|[Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
-
-# Known Issues
-* Currently doesn't work with `top` editor layout
-* Page must load in `left` or `right` editor layout
+Requires a userscript manager plugin such as [Violentmonkey](https://violentmonkey.github.io/)
 
 # Example
-
 ### With resizable code boxes
 ![resizable](https://i.imgur.com/Geahhwe.png)
 
