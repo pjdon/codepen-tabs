@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name           Codepen Tabs
-// @version        0.2019.05.18.3
+// @version        0.2019.05.18.4
 // @author         rovyko
 // @namespace      https://github.com/rovyko/codepen-tabs
 // @downloadURL    https://github.com/rovyko/codepen-tabs/raw/master/codepentabs.user.js
@@ -144,7 +144,7 @@ for (const [i, editor] of [...editors].entries()) {
   
   // get editor name
   const nameNode = editor.querySelector(qs.nameNode);
-  const name = nameNode.innerText;
+  const name = nameNode.textContent;
   
   // clone the tab template
   const cloneTab = document.importNode(tempTab.content, true);
