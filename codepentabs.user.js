@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name           Codepen Tabs
-// @version        0.2019.05.18.4
+// @version        0.2019.05.18.5
 // @author         rovyko
 // @namespace      https://github.com/rovyko/codepen-tabs
 // @downloadURL    https://github.com/rovyko/codepen-tabs/raw/master/codepentabs.user.js
@@ -76,7 +76,7 @@ styler.innerHTML =
 	left: 1px;
 }
 
-.${prefix}-tab [type=radio] {
+.${prefix}-tab > input[type=radio] {
 	display: none;
 }
 
@@ -90,13 +90,13 @@ styler.innerHTML =
 	visibility: hidden;
 }
 
-[type=radio]:checked ~ label {
+.${prefix}-tab > input[type=radio]:checked ~ label {
   background: #17181c;
   border-bottom: 1px solid #1a1b1f;
   z-index: 2;
 }
 
-[type=radio]:checked ~ label ~ .${prefix}-content {
+.${prefix}-tab > input[type=radio]:checked ~ .${prefix}-content {
 	visibility: visible;
 }
 `;
