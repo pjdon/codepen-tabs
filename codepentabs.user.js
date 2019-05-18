@@ -26,7 +26,6 @@
 
 // configuration
 const prefix = "cdpntb";
-const resizerTimeout = 2000;
 // query selectors
 const qs = {
   editorWrapper: ".top-boxes.editor-parent",
