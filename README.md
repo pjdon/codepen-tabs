@@ -14,3 +14,11 @@ Requires a userscript manager plugin:
 # Known Issues
 * Currently doesn't work with `top` editor layout
 * Page must load in `left` or `right` editor layout
+
+# Example
+
+### With resizable code boxes
+![resizable](https://i.imgur.com/Geahhwe.png)
+
+### With code box tabs
+![tabs](https://i.imgur.com/nr7RskZ.png)
