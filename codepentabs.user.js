@@ -6,7 +6,7 @@
 // @downloadURL https://github.com/rovyko/codepen-tabs/raw/master/codepentabs.user.js
 // @updateURL https://github.com/rovyko/codepen-tabs/raw/master/codepentabs.user.js
 // @grant    none
-// @include	 https://codepen.io/*
+// @include	 /https?:\/\/codepen\.io\/(?:[^\/]*\/)pen/
 // ==/UserScript==
 
 /*
